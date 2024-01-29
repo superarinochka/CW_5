@@ -1,0 +1,11 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+idna==3.6
+isodate==0.6.1
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+requests==2.31.0
+six==1.16.0
+urllib3==1.26.6
