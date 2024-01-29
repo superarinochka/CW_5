@@ -4,6 +4,7 @@ import psycopg2
 class DBManager:
     '''Класс для подключения к БД'''
 
+
     def get_companies_and_vacancies_count(self):
         '''Метод получает список всех компаний и
         количество вакансий у каждой компании'''

@@ -1,7 +1,6 @@
 import psycopg2
 import requests
 
-
 def get_vacancies(employer_id):
     """Получение данных вакансий по API"""
 
